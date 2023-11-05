@@ -1,6 +1,6 @@
 # threading
 
-This is the threading project.
+This is a simple benchmarking application for various threading libraries
 
 # Building and installing
 
